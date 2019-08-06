@@ -12,6 +12,6 @@
 ### 3. 导入说明
   - Eclipse导入maven项目
   - MySQL中执行HR.sql
-  - 修改/HR/src/main/resources/spring/spring-datasource.xml为自己的数据库
+  - 修改`/HR/src/main/resources/spring/spring-datasource.xml`为自己的数据库
   
 
