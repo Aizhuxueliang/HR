@@ -18,7 +18,7 @@
 		<property name="driverClassName"
 			value="com.mysql.jdbc.Driver"></property>
 		<property name="url"
-			value="jdbc:mysql://39.105.54.45:3306/hr1?characterEncoding=utf8"></property>
+			value="jdbc:mysql://127.0.0.1:3306/hr1?characterEncoding=utf8"></property>
 		<property name="username" value="root"></property>
 		<property name="password" value="123"></property>
 	</bean>
